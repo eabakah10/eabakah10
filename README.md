@@ -37,7 +37,7 @@ I'm passionate about turning data into insights through interactive dashboards, 
 🌱 I’m currently learning how to use Tableau for Data Visualizations.
 
 ## 📢 Let's Connect
-- **LinkedIn**: [linkedin.com/in/eabakah10](https://www.linkedin.com/in/eric-abakah-11a6361a7)
+- **LinkedIn**: [linkedin.com/in/eric-abakah-11a6361a7](https://www.linkedin.com/in/eric-abakah-11a6361a7)
 - **GitHub**: [github.com/eabakah10](https://github.com/eabakah10)
 - **Email**: ehrickabakah98@gmail.com
 
