@@ -1,6 +1,6 @@
 # Hi there, I'm Eric Abakah 👋
 
-**Aspiring Data Scientist | Power BI & Python Enthusiast | Storytelling with Data**
+**Aspiring Data Scientist | Power BI & Python Enthusiast | Storytelling with Data | Researcher**
 
 I'm passionate about turning data into insights through interactive dashboards, statistical modeling, and clear communication. I'm currently completing the **Data Science & Analytics Internship at Future Interns**, where I work on real-world projects involving e-commerce analytics, ad performance tracking, and feedback sentiment analysis.
 
